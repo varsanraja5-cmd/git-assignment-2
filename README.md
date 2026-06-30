@@ -5,10 +5,10 @@
 1. Fork this repository on GitHub.
 2. Open VSCode, open a terminal, and clone **your fork**:
 git clone <your-fork-url>
-3. Change into the repository directory:
+3. Change into the created repository directory:
 cd git-assignment-2
 4. Open the `git-assignment-2` folder in VSCode.
-5. Open the `README.md` file (this file). You will edit it in VSCode.
+5. Open the `README.md` file (this file), which you will edit it in VSCode.
 6. **Industry vocabulary**  
 - **origin** = your fork (`your_username/git-assignment-2`)  
 - **upstream** = my repository (`josephor1271/git-assignment-2`)
@@ -76,7 +76,7 @@ git pull
 7. On GitHub, go to **Pull Requests** and open a new pull request:
 - From: `your_username/git-assignment-2` `main`
 - To: `josephor1271/git-assignment-2` `main`
-- It should look like:  
+- It should look like this:  
   `josephor1271/git-assignment-2 main <- your_username/git-assignment-2 main`
 
 8. Submit the pull request.
